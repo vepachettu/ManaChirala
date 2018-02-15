@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Mana_Chirala.iml" filepath="$PROJECT_DIR$/Mana_Chirala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManaChirala.iml" filepath="$PROJECT_DIR$/ManaChirala.iml" />
+      <module fileurl="file://C:\Users\siri_android\Desktop\ManaChirala\Mana_Chirala.iml" filepath="C:\Users\siri_android\Desktop\ManaChirala\Mana_Chirala.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\siri_android\Desktop\ManaChirala\app\app.iml" filepath="C:\Users\siri_android\Desktop\ManaChirala\app\app.iml" />
     </modules>
   </component>
 </project>
